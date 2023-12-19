@@ -7,7 +7,7 @@ Data gathering stucture is constructed as follows:
 
 ![image](https://github.com/mteodoro11/work-project/assets/78867736/9e1f1df9-3ec5-4296-adcb-bf62886d4af4)
 
-The following scripts gather the required data. The data-gatherer.ipynb notebook calls all scripts and joins all data collected into a single data frame.
+The following scripts gather the required data. The **data-gatherer.ipynb** notebook calls all scripts and joins all data collected into a single data frame.
 
 - fred_extract.py
 - index_components_extract.py
@@ -16,10 +16,10 @@ The following scripts gather the required data. The data-gatherer.ipynb notebook
 - market_betas.py
 - build_final.py
 
-The garch-performance.ipynb notebook benchmarks performance of GARCH(1,1) model in forecasting index volatility.
+The **garch-performance.ipynb** notebook benchmarks performance of GARCH(1,1) model in forecasting index volatility.
 
-Using the created data frame, we check for the validity of assumptions from Moreira and Muir (2017) at the stock-level in the assumptions.ipynb notebook.
+Using the created data frame, we check for the validity of assumptions from Moreira and Muir (2017) at the stock-level in the **assumptions.ipynb** notebook.
 
-Model construction for stock volatility forecasting and consequent evaluation are presented in the modelling.ipynb notebook.
+Model construction for stock volatility forecasting and consequent evaluation are presented in the **modelling.ipynb** notebook.
 
-Finally, portfolio construction and assessment based on the forecasted volatilities is developed in the portfolio-assessment.ipynb notebook.
+Finally, portfolio construction and assessment based on the forecasted volatilities is developed in the **portfolio-assessment.ipynb** notebook.
