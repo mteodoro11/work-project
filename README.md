@@ -16,6 +16,8 @@ The following scripts gather the required data. The data-gatherer.ipynb notebook
 - market_betas.py
 - build_final.py
 
+The garch-performance.ipynb notebook benchmarks performance of GARCH(1,1) model in forecasting index volatility.
+
 Using the created data frame, we check for the validity of assumptions from Moreira and Muir (2017) at the stock-level in the assumptions.ipynb notebook.
 
 Model construction for stock volatility forecasting and consequent evaluation are presented in the modelling.ipynb notebook.
