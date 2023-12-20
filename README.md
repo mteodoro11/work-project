@@ -1,5 +1,5 @@
 # work-project
- Work Project Master's in Finance Thesis at Nova SBE 22/23
+ Work Project Master's in Finance at Nova SBE 23/24
 
 Data files contain data retrieved from S&P Global Market Intelligence Data Through Wharton Research Data Services (WRDS) and therefore are not allowed to be publicly shared, nevertheless, results of the developed analysis can be found in this repository.
 
